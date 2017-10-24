@@ -1,0 +1,8 @@
+##Mac Desktop file
+.DS_Store
+
+##Large files containing the letters
+notMNIST_large
+notMNIST_small
+notMNIST_small.tar.gz
+notMNIST_large.tar.gz
